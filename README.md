@@ -2,6 +2,8 @@
 
 Final dataset contains 7022 images of human brain MRI images which are classified into 4 classes: glioma - meningioma - no tumor and pituitary. 
 
+<img src="pictures/brain_tumor_data.png">
+
 ### For creating the model and improving the model's efficiency were applied the following techniques:
 - Data augmentation
 - Convolutional Neural Network
