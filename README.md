@@ -14,6 +14,6 @@ Final dataset contains 7022 images of human brain MRI images which are classifie
 
 The result is presented as a classification report.
 
-<img src="pictures/the_model_efficiency.png">
+<img src="pictures/The_model_efficiency.png" width="500">
 
 The project was created in Google Colab.
